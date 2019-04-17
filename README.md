@@ -7,4 +7,4 @@ To use the app, type in any of the following commands plus the band, song and mo
 * movie-this
 * The command below will execute a command from the random.txt file
  * do-what-it-says
-Have fun!
+** Have fun!**
