@@ -5,6 +5,6 @@ To use the app, type in any of the following commands plus the band, song and mo
 * concert-this
 * spotify-this-song
 * movie-this
-The command below will execute a command from the random.txt file
-* do-what-it-says
+*The command below will execute a command from the random.txt file
+ *do-what-it-says
 Have fun!
